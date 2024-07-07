@@ -1,0 +1,54 @@
+body {
+    background-color: #ffbdbd; /* Cor de fundo rosa claro */
+    box-sizing: content-box;
+    box-shadow: 100px;
+    box-sizing: 100px;
+}
+
+.container {
+    margin-top: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    color: #7f36e5; /* Cor do título */
+    margin-bottom: 100px;
+}
+
+#simButton {
+    margin-bottom: 8px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+}
+
+#naoButton {
+    margin-top: 10px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-right: 35px;
+    margin-left: 25px;
+}
+
+#mensagem {
+    display: flex;
+    box-sizing:content-box;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#inexistente {
+    background-color: #ffbdbd; /* Cor de fundo rosa claro */
+    color: #ffbdbd;
+    border-color: #ffbdbd;
+    opacity: 100;
+}
+
+
+#imagem {
+    display: none;
+    margin-top: 20px;
+    max-width: 100%;
+}
